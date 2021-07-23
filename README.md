@@ -26,7 +26,6 @@ My name is Mahendra and I'm a Front-End and Web Developer. I'm form Indonesia, l
 ## Github Stats
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
     <img alt="forriv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=forriv&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img alt="forriv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forriv&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </details>
