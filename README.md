@@ -38,5 +38,3 @@ My name is Mahendra and I'm a Front-End and Web Developer. I'm form Indonesia, l
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" />
