@@ -1,25 +1,52 @@
-### Hi, I'm Chip 👋
+<p align="center">
+ <img width="100px" src="https://github.com/hendrasob/hendrasob/blob/master/assets/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
+ <h2 align="center">Mahendra - @Hendrasob</h2>
+ <p align="center">Front end and Web Developer</p>
+</p>
 
-<!--
-**chiphuyen/chiphuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+<img alt="Profile View" src="https://gpvc.arturio.dev/Hendrasob" />
+</p>
 
-I'm a writer and computer scientist. I grew up chasing grasshoppers in a small rice-farming village in Vietnam. I spend a lot of time with chickens and [alpacas](https://www.instagram.com/p/Bsjo44ThRRv/).
+```kotlin
+object Mahendra {
+ val name = "Mahendra"
+ val birth = "25th-august"
+ 
+ val primarySkillset = listOf("Front-End", "Web developer")
+ val languages = listOf("React", "PHP")
+ val learning = "Kotlin"
 
-- 🎓 I'll be teaching [Machine Learning Systems Design](https://huyenchip.com/2020/10/27/ml-systems-design-stanford.html) at Stanford in Jan 2021.
-- 🔭 I'm currently with [Snorkel AI](https://snorkel.ai), a data-first end-to-end platform for developing AI applications.
-- 📝 I write a lot! I'm the author of [four bestselling Vietnamese books][goodreads]. I'm working on an English book on [machine learning interviews][ml-interviews].
-- 😅 Fun fact: After high school, I went to Brunei for a 3-day vacation which turned into a 3-year trip through Asia, Africa, and South America. During my trip, I worked as a Bollywood extra, a casino hostess, and a street performer.
+ val contact = "@hendrasob".apply {
+   twitter = this
+   facebook = this
+   instagram = this
+ }
 
-I'm best reached via [email](https://huyenchip.com/communication). I'm always open to interesting conversations and collaboration.
+}
+```
+## Hello, there
 
-[goodreads]: https://www.goodreads.com/author/show/4675230.Huy_n_Chip
-[ml-interviews]: https://huyenchip.com/2019/07/21/machine-learning-interviews.html
+My name is Mahendra and I'm a Front-End and Web Developer. I'm form Indonesia, living in Denpasar. And now I'm currently deepening android development with kotlin.
 
----
-[![Twitter Follow](https://img.shields.io/twitter/follow/chipro?label=Follow&style=social)](https://twitter.com/chipro)
+## My first kotlin app
 
-----
-Credit: [chiphuyen](https://github.com/chiphuyen)
+[![FirstAppKotlin](https://github-readme-stats.vercel.app/api/pin/?username=hendrasob&repo=FoodApp&theme=radical)](https://github.com/hendrasob/FoodApp)
 
-Last Edited on: 06/01/2021
+## Github Stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <img alt="Hendrasob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hendrasob&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img alt="Hendrasob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendrasob&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" />
+
+-----
+Credits: [Mahendra](https://github.com/hendrasob)
+
+Last Edited on: 24/03/2021
