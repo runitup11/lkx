@@ -24,5 +24,7 @@ object  forriv {
 My name is Mahendra and I'm a Front-End and Web Developer. I'm form Indonesia, living in Denpasar. And now I'm currently deepening android development with kotlin.
 
 ## Github Stats
-    <img alt="Hendrasob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hendrasob&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img alt="Hendrasob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendrasob&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+
+  <img alt="forriv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hendrasob&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    
+  <img alt="forriv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendrasob&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
