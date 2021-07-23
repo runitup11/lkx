@@ -8,18 +8,13 @@
 </p>
 
 ```kotlin
-object Mahendra {
- val name = "Mahendra"
- val birth = "25th-august"
- 
- val primarySkillset = listOf("Front-End", "Web developer")
- val languages = listOf("React", "PHP")
- val learning = "Kotlin"
+object  forriv {
+ val name = "Oskar"
 
- val contact = "@hendrasob".apply {
-   twitter = this
-   facebook = this
-   instagram = this
+ val learning = "Lua/C++"
+
+ val contact = "@forriv".apply {
+   discord = .foriv#2040
  }
 
 }
