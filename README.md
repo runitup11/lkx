@@ -1,47 +1,25 @@
+### Hi, I'm Chip 👋
 
-        
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<!--
+**chiphuyen/chiphuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<h3> 👨🏻‍💻 About Me </h3>
+I'm a writer and computer scientist. I grew up chasing grasshoppers in a small rice-farming village in Vietnam. I spend a lot of time with chickens and [alpacas](https://www.instagram.com/p/Bsjo44ThRRv/).
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🎓 I'll be teaching [Machine Learning Systems Design](https://huyenchip.com/2020/10/27/ml-systems-design-stanford.html) at Stanford in Jan 2021.
+- 🔭 I'm currently with [Snorkel AI](https://snorkel.ai), a data-first end-to-end platform for developing AI applications.
+- 📝 I write a lot! I'm the author of [four bestselling Vietnamese books][goodreads]. I'm working on an English book on [machine learning interviews][ml-interviews].
+- 😅 Fun fact: After high school, I went to Brunei for a 3-day vacation which turned into a 3-year trip through Asia, Africa, and South America. During my trip, I worked as a Bollywood extra, a casino hostess, and a street performer.
 
-<h3>🛠 Tech Stack</h3>
+I'm best reached via [email](https://huyenchip.com/communication). I'm always open to interesting conversations and collaboration.
 
-- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; Android | flutter | J2EE
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
+[goodreads]: https://www.goodreads.com/author/show/4675230.Huy_n_Chip
+[ml-interviews]: https://huyenchip.com/2019/07/21/machine-learning-interviews.html
 
-<br>
-
-<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-
+---
+[![Twitter Follow](https://img.shields.io/twitter/follow/chipro?label=Follow&style=social)](https://twitter.com/chipro)
 
 ----
-Credit: [devSouvik](https://github.com/devSouvik)
+Credit: [chiphuyen](https://github.com/chiphuyen)
 
-Last Edited on: 23/09/2020
+Last Edited on: 06/01/2021
