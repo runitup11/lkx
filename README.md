@@ -6,13 +6,12 @@
 <p align="center">
 <img alt="Profile View" src="https://gpvc.arturio.dev/forriv" />
 </p>
-## Hello, there
 
+## Hello, there
 My name is Oskar and I'm a learning . I'm form Indonesia, living in Denpasar. And now I'm currently deepening android development with kotlin.
 
 ## Github Stats
-
-  <img alt="forriv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=forriv&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+ <img alt="forriv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=forriv&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
 
 ### Spotify Playing 🎧  
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
