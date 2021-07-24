@@ -13,6 +13,6 @@ My name is Oskar and I'm a learning . I'm form Indonesia, living in Denpasar. An
 ## Github Stats
 <img alt="forriv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=forriv&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
 
-### Spotify Playing 🎧  
-<img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default" />
+### Spotify Playing
+<img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=forriv&cover_image=true&theme=default" />
 
